@@ -22,6 +22,8 @@ Htmlcss-wireframe/ <br>
 └── favicon/ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── filetype-css.svg
 
+## REFERENCE WIREFRAME
+![Screenshot of my Wireframe](./webpage.webp)
 
 ## TECH STACK
 
@@ -33,5 +35,5 @@ Htmlcss-wireframe/ <br>
 ## FEATURES
 
 * Header
-* Reausable "card" componenents
+* Reausable "card" components
 * Footer
