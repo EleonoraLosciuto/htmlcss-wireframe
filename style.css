@@ -3,3 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+   weight: 512px;
+   height: 985px;
+}
+
+.card {
+    border: 2px solid black;
+    margin: 1.5em auto;
+    width: 450px;
+    height: 175px;
+}
+
+p {
+    padding-bottom: 2em;
+}
+
+h1 {
+    padding: 0.5em;
+}
+
+.card > h2 {
+    padding: 0.5em 0.5em 0 0.5em;
+}
+
+.card > p {
+    padding: 0 12px;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+footer > p {
+    padding: 0.5em 1em;
+    font-size: large;
+}
