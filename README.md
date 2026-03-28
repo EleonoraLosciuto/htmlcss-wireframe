@@ -1,4 +1,4 @@
-# CSS FLEXBOX 
+# HTML CSS WIREFRAME 
 
 This project is the second exercise in the context of a Web Development Master Course. It is focused on HTML and CSS, including CSS Flexbox. 
 
@@ -6,6 +6,9 @@ This project is the second exercise in the context of a Web Development Master C
 ## TASK
 
 The task is re-cerrating a web-page, provided by the teacher, by using HTML and CSS.
+The objective is to obtain a wireframe with responsive layout focused on structural CSS and clean HTML architecture:
+* Focus: Flexbox/Grid and semantic HTML.
+The approach used is <b> Mobile-First </b>
 
 
 ## PROJECT STRUCTURE
@@ -20,3 +23,15 @@ Htmlcss-wireframe/ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── filetype-css.svg
 
 
+## TECH STACK
+
+* HTML5: semantic elements
+* CSS3: custom properties / variables
+* VSCode: development environment
+
+
+## FEATURES
+
+* Header
+* Reausable "card" componenents
+* Footer
