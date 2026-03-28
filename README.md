@@ -5,7 +5,7 @@ This project is the second exercise in the context of a Web Development Master C
 
 ## TASK
 
-The task is re-cerrating a web-page, provided by the teacher, by using HTML and CSS.
+The task is re-creating a web-page, provided by the teacher, by using HTML and CSS.
 The objective is to obtain a wireframe with responsive layout focused on structural CSS and clean HTML architecture:
 * Focus: Flexbox/Grid and semantic HTML.
 The approach used is <b> Mobile-First </b>
